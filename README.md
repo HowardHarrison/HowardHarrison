@@ -15,23 +15,14 @@ Hello. I develop softwares especially web applications. I love to explore how ap
 ---
 
 ## 📈 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HowardHarrison&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowardHarrison&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HowardHarrison&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowardHarrison&layout=compact&theme=dark)
  
 ---
 
 ## 🧠 LeetCode Stats  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HowardHarrison?theme=dark&font=Baloo%202&extension=activity)
-
----
-
-## 🧩 LeetCode Journey  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/HowardHarrison?theme=light&font=Roboto&extension=activity)  
-
-🌟 **Total Problems Solved:** X  
-📈 **Ranking:** Y 
 
 ---
 
